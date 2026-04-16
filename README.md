@@ -2,14 +2,9 @@
 
 **Insynia** is the standalone WordPress theme from [Insynia](https://insynia.ai). Use it on any self-hosted WordPress site: no page builders, no block-editor lock-in, no CSS frameworks — PHP, semantic HTML5, and vanilla CSS with custom properties.
 
-- **Product & company:** [https://insynia.ai](https://insynia.ai)
-- **This repository:** clone or download the theme only; your site’s content and hosting stay on your own WordPress install.
-
 ---
 
-## Download the theme (standalone)
-
-You can install this theme **without** the rest of the Insynia stack.
+## Download the theme
 
 ### Option A — ZIP upload (simplest)
 
