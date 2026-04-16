@@ -1,0 +1,21 @@
+/*
+Theme Name: Insynia
+Theme URI: https://insynia.ai
+Author: Insynia
+Author URI: https://insynia.ai
+Description: A modern, lightweight, fully custom-coded WordPress theme boilerplate. No block editor dependency, no page builders, no CSS frameworks — pure PHP + vanilla CSS custom properties with a modular feature architecture designed for limitless customization.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: insynia
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, block-styles, wide-blocks, accessibility-ready
+*/
+
+/*
+ * All real styles live in /assets/css/.
+ * This file exists so WordPress can register the theme via its header comment.
+ * Do not add styles here — add them to the appropriate file under assets/css/.
+ */
